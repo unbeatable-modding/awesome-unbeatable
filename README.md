@@ -1,12 +1,20 @@
 # awesome-unbeatable
 
-A collection of awesome things about UNBEATABLE (& Modding)
+A collection of awesome things about UNBEATABLE Modding
 
-# UNBEATABLE: DEMO
+# Useful Links
+
+[UNBEATABLE on Steam](https://store.steampowered.com/app/2240620/UNBEATABLE/)
+
+[UNBEATABLE [white label] on Steam](https://store.steampowered.com/app/1290490/UNBEATABLE_white_label/)
+
+[UNBEATABLE Modding Discord](https://discord.gg/XzqMhRMmhC)
+
+# UNBEATABLE Demo
 
 [Custom Beatmaps V4](https://github.com/unbeatable-modding/CustomBeatmapsV4) - Play custom beatmaps from local files or online maps.
 
-[Quick Start](https://github.com/unbeatable-modding/QuickStart) - Launch unbeatable at ADHD speeds
+[Quick Start](https://github.com/unbeatable-modding/QuickStart) - Launch unbeatable at ADHD speeds.
 
 [Smarter Assist Mode](https://github.com/Zachava96/SmarterAssistMode) - Fixes bugs in Assist mode.
 
