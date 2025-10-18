@@ -22,6 +22,8 @@ A collection of awesome things about UNBEATABLE (& Modding)
 
 [Custom Beatmaps V3](https://github.com/TacoDogUnbeatableThing/CustomBeatmapsV3) - Play custom beatmaps from local files or online maps.
 
+[Custom Translations](https://github.com/TacoDogUnbeatableThing/CustomTranslations) - Adds translation support
+
 # Mapping Guides
 
 [Creation Guide](https://github.com/Ratismal/CustomBeats/blob/master/creation.md) - Simple tutorial showing how to create basic notes
