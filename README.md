@@ -34,6 +34,6 @@ A collection of awesome things about UNBEATABLE Modding
 
 # Mapping Guides
 
-[Creation Guide](https://github.com/Ratismal/CustomBeats/blob/master/creation.md) - Simple tutorial showing how to create basic notes
+[Creation Guide](https://github.com/Ratismal/CustomBeats/blob/master/creation.md) - Basic tutorial on how to create beatmaps.
 
 [Beatmap Bible](https://docs.google.com/document/d/11SQJT0APeuw0Sn_F6M6ji8mHo57ZgsYKhWOrX40stbA/edit) - In-depth guide regarding osu! setup and note placements.
